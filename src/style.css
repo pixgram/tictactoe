@@ -20,14 +20,15 @@ td {
 #app {
   display: flex;
   margin: 1rem;
+  justify-content: center;
 }
 
 .app-left {
-  flex: 1;
+  flex: 0.4;
 }
 
 .app-right {
-  flex: 0.5;
+  flex: 0.2;
 }
 
 .history {
